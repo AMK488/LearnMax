@@ -1,9 +1,4 @@
-//import javax.swing.*;
-//import java.awt.BorderLayout;
 import java.util.*;
-//import java.awt.Font;
-//import java.awt.Color;
-//import java.awt.GridLayout;
 public class Student {
     private String id;
     private String name;

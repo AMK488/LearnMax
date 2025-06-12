@@ -1,9 +1,5 @@
-//import javax.swing.*;
-//import java.awt.BorderLayout;
 import java.util.*;
-//import java.awt.Font;
-//import java.awt.Color;
-//import java.awt.GridLayout;public class StudentManager {
+
 public class StudentManager {
     private ArrayList<Student> students;
 
